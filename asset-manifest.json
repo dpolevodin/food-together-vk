@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/food-together-vk/static/js/main.b5ca4b9b.chunk.js",
+    "main.js.map": "/food-together-vk/static/js/main.b5ca4b9b.chunk.js.map",
+    "runtime-main.js": "/food-together-vk/static/js/runtime-main.7d6743c9.js",
+    "runtime-main.js.map": "/food-together-vk/static/js/runtime-main.7d6743c9.js.map",
+    "static/css/2.170ca112.chunk.css": "/food-together-vk/static/css/2.170ca112.chunk.css",
+    "static/js/2.a7bf8111.chunk.js": "/food-together-vk/static/js/2.a7bf8111.chunk.js",
+    "static/js/2.a7bf8111.chunk.js.map": "/food-together-vk/static/js/2.a7bf8111.chunk.js.map",
+    "index.html": "/food-together-vk/index.html",
+    "static/css/2.170ca112.chunk.css.map": "/food-together-vk/static/css/2.170ca112.chunk.css.map",
+    "static/js/2.a7bf8111.chunk.js.LICENSE.txt": "/food-together-vk/static/js/2.a7bf8111.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6743c9.js",
+    "static/css/2.170ca112.chunk.css",
+    "static/js/2.a7bf8111.chunk.js",
+    "static/js/main.b5ca4b9b.chunk.js"
+  ]
+}
